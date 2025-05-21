@@ -1,3 +1,4 @@
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -23,10 +24,11 @@ p {
 main {
     max-width: 840px;
 }
+
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.1); /
+    border: 1px solid rgb(0 0 0 / 0.1);
     padding: 1rem;
     background-color: rgb(194, 180, 142, 0.2);
     color: black;
